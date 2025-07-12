@@ -1,7 +1,3 @@
--- Auto Cliker - Otimização + AutoClicker com GUI Quadrada Black
--- from: mario and biel
-
--- CONFIG OTIMIZAÇÃO
 local ToDisable = {
 	Textures = true,
 	VisualEffects = true,
